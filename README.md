@@ -1,4 +1,7 @@
-# lasi2018
+# Learning Analytics Summer Institute 2018
+# Python Bootcamp for Learning Analytics
 
 
-Please consult the LASI2018 Python Tutorial Wiki: https://github.com/alfredessa/lasi2018/wiki/LASI2018-Python-Tutorial
+Welcome to the LASI 2018 Python Bootcamp
+
+The most current syllabus will be maintained at the <a href="https://github.com/alfredessa/lasi2018/wiki/LASI2018-Python-Tutorial"> Course Wiki </a> .
